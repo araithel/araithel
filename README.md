@@ -4,8 +4,6 @@ I'm Alex from Hamburg/Germany, software developer and team lead for more than 20
 
 In the last years I primarily developed digital enterprise asset management and search solutions.
 
-Check out my current side project [picturesafe-search](https://github.com/picturesafe/picturesafe-search), an open source Java wrapper for Elasticsearch.
-
 <a href="https://www.xing.com/profile/Alexander_Raithel" target="_blank" rel="me"><img src="https://www.xing.com/img/buttons/1_de_btn.gif" width="85" height="23" alt="Alexander Raithel"></a>
 
 <!--
